@@ -1,0 +1,2 @@
+T_fin;   cool_rate;   Tmin;   delta_time;  grid_points;   length
+100.0;   500.0;      950.0;    1e-3;             256;              3e-4
